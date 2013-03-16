@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="NDGirls"
+  id="myeclipse.1362746141843"
+  context-root="/ndgirls"
+  j2ee-spec="5.0"
+  archive="NDGirls.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
